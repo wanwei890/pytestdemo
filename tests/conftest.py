@@ -3,7 +3,6 @@
 """
 @author: wanwei
 @license: (C) Copyright 2013-2017, Node Supply Chain Manager Corporation Limited.
-@contact: wei_wan@sui.com
 @software: pycharm
 @file: conftest.py
 @time: 2019/9/24 11:02
